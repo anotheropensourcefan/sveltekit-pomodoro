@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Pomo d'oro</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
@@ -24,6 +24,7 @@
 	<h2>
 		try editing <strong>src/routes/+page.svelte</strong>
 	</h2>
+	<p>Pomo d'oro makes you productive</p>
 
 	<Counter />
 </section>
