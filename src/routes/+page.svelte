@@ -81,7 +81,7 @@
 	.start-pause {
 	  width: 25%;
 	  margin: auto;
-	  font-size: --font-size;
+	  font-size : --font-size;
 	}
 
 	.time {
