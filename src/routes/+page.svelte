@@ -34,7 +34,7 @@
 	}
 
 	.sub {
-	  font-size: 50%;
+	  font-size: 60%;
 	}
 
 	button {
